@@ -1,2 +1,2 @@
 # Admission-Management-System-Cplusplus
-This program is developed in c++ and based on all the basics of the language. 
+#This code is developed by M.Nadir -This is an open source code for learning purpose. -This c++ program is based on all the basics of language user will have admin and user module with their functionalities. -For further help or query regarding any sort of problem can contact me on contact given below. Contact info: Email: mohammadnadir189@gmail.com LinkedIn: www.linkedin.com/in/mohnadir Facebook: www.facebook.com/mnadirofficial Instagram: www.instagram.com/nadiir._
